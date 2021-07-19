@@ -1,0 +1,567 @@
+﻿[Adblock Plus 2.0]
+
+
+! Version: 20160523
+! Last modified: 27 Apr 2020
+! Title: http://soymilrayitas.googlepages.com
+! Homepage: http://soymilrayitas.googlepages.com
+! License: http://creativecommons.org/licenses/by/3.0/
+
+
+! Suscripciones
+
+
+http://www.fanboy.co.nz/fanboy-adblock.txt
+http://www.fanboy.co.nz/fanboy-espanol.txt
+http://www.fanboy.co.nz/fanboy-tracking.txt
+http://abp.mozilla-hispano.org/nauscopio/filtros.txt
+http://easylist-downloads.adblockplus.org/easylist.txt
+http://easylist-downloads.adblockplus.org/easyprivacy.txt
+http://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+http://easylist-downloads.adblockplus.org/adwarefilters.txt
+http://easylist-downloads.adblockplus.org/fanboy-social.txt
+http://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+http://raw.github.com/liamja/Prebake/master/obtrusive.txt
+http://raw.github.com/Dawsey21/Lists/master/adblock-list.txt
+
+
+! 28/10/07
+
+
+/logo-em.jpg
+http://www.foros-fiuba.com.ar/templates/*.js
+http://www.foros-fiuba.com.ar/includes/*.js
+
+
+! 20/2/08
+
+
+/gotosign.gif
+
+
+! 5/5/08
+
+
+google.com.ar,google.es,google.com.es#table(id=mbEnd)(width=30%)
+
+
+! 12/6/08
+
+
+/banner_earn.to.swf
+
+
+! 27/6/08
+
+
+sonidoo.com/sonidoo.gif
+
+
+! 10/8/08
+
+
+/bannertpc.gif
+
+
+! 17/9/08
+
+
+/soyf728x90.gif
+
+
+! 18/9/08
+
+
+mp3tube.net/jogando-banner.jpg
+mp3tube.net/muonline.jpg
+
+
+! 20/9/08
+
+
+/diario/hoy/masop-productos.js
+
+
+! 4/10/08
+
+
+moonewe.com/promos/bannerflash728x90.swf
+
+
+! 11/10/08
+
+
+/ads.php?*
+mlapps.com/*
+subdivx.com/pub/*
+
+
+! 29/12/08
+
+
+/minilogotallerpc.jpg
+
+
+! 28/2/09
+
+
+/pt.gif
+
+
+! 18/4/09
+
+
+/hotad72890.gif
+
+
+! 19/5/09
+
+
+http://www.foros-fiuba.com.ar/templates/fisubsilversh/images/banner-*
+
+
+! 29/7/09
+
+
+/p72890.gif
+
+
+! 22/9/09
+
+
+groups.yahoo.com##DIV#ygrp-sponsored-links
+
+
+! 30/9/09
+
+
+vidtomp3.com##DIV.banner
+clarin.com##DIV.Caja
+clarin.com##EMBED#uncover4
+clarin.com##DIV#loteria
+clarin.com##DIV.AyxGuias
+clarin.com##DIV.Guias
+yahoo.com##DIV#ygrp-right1-ad
+
+
+! 11/3/10
+
+
+mail.google.com##DIV.nH.u8
+
+
+! 11/4/10
+
+
+http://www.google-analytics.com/*
+http://www.google-analytics.com/urchin.js
+.google-analytics.
+
+
+! 25/5/10
+
+
+youtube.com##DIV#default-language-box
+youtube.com##DIV[id].yt-alert.yt-alert-warn.yt-rounded
+
+
+! 22/10/10
+
+
+groups.yahoo.com##DIV#user-1
+
+
+! 9/11/10
+
+
+linkedin.com##DIV.section.wps
+mail.google.com##DIV.u9
+
+
+! 13/12/10
+
+
+google.com##DIV.u5
+linkedin.com##.section.ads
+
+
+! 16/12/10
+
+
+###CajaPublicidad
+
+
+! 14/6/11
+
+
+###mclicsSkycrapper
+###mclicsBottom
+###mclicsWop
+###mclics
+||grandt.clarin.com/popups/popup_alert_ElNoble.html
+
+
+! 30/12/11
+
+
+groups.yahoo.com##.ygrp-right-col
+
+
+! 21/2/12
+
+
+###verticalAds
+###mclicsRow
+
+
+! 17/3/12
+
+
+##.MClics-Contenedor
+
+
+! 28/3/12
+
+
+/anunciantes/
+
+
+! 1/5/12
+
+
+##.netshoes_banner
+###customAd
+
+
+! 8/5/12
+
+
+###vdls-advs
+
+
+! 15/5/12
+
+
+##.tas.knavi
+
+
+! 21/12/12
+
+
+youtube.com##.yt-alert.yt-alert-default.yt-alert-info
+
+
+! 26/2/13
+
+
+soloascenso.com.ar##IMG[src="images/ctlc.jpg"]
+soloascenso.com.ar##IMG[src="images/eof.gif"]
+soloascenso.com.ar##IMG[src="images/pautas.jpg"]
+
+
+! 15/3/13
+
+
+@@||9gag.com^$document
+###wmxmsg
+
+
+! 26/3/13
+
+
+audiothief.com##IMG[src="/Images/AudioThief_Bnr.png"]
+
+
+! 2/5/13
+
+
+###dmRosAdWrapper-MainNorth
+###dmRosAdWrapper-MainSouth
+
+
+! 30/5/13
+
+
+mercadolibre.com.ar##.ch-box-container
+mercadolibre.com.ar##.ch-box-lite.items-carousel
+###dmRosAdWrapper-North
+###dmRosAdWrapper-East
+
+
+! 2/9/13
+
+
+taringa.net##.t-single-block
+taringa.net##.zeti-object.zeti-block-container
+
+
+! 2/10/13
+
+
+groups.yahoo.com##.dmRosAdBox
+
+
+! 24/1/14
+
+
+/*.com.jpg
+
+
+! 14/2/14
+
+
+mail.google.com##.nH.adC
+
+
+! 26/5/14
+
+
+s.yimg.com##.ad-tl2b.small
+soloascenso.com.ar##IMG[src="images/mc.jpg"]
+soloascenso.com.ar##IMG[src="images/tmc.jpg"]
+
+
+! 27/5/14
+
+
+###moreItemsContainerrecommended
+###meli-ads-vip-bottom
+##DIV[style="font-size: .9em; line-height: 1.3em; padding: 5px 0; position: relative; margin: 40px 0 10px 0; color: #999; border-top: 1px solid #ddd;"]
+
+
+! 22/7/14
+
+
+/*.net.jpg
+
+
+! 22/8/14
+
+
+##[data="clear_sky_banner_468x65.swf"]
+
+
+! 29/4/15
+
+
+inoreader.com###sinner_container
+
+
+! 26/5/15
+
+
+/clearskypharmacy.gif
+
+
+! 29/9/15
+
+
+/musclefan.com.png
+
+
+! 1/7/16
+
+
+goear.com/mgb.php
+ssl.google-analytics.com/*
+
+
+! 14/7/16
+
+
+|http://www.goear.com/rbpag.php
+|http://www.goear.com/smaato.php
+
+
+! 21/6/17
+
+
+@@||club.personal.com.ar^$document
+http*://i63.tinypic.com/2ex6hqd.jpg
+/pharmacomstore.jpg
+
+
+! 7/9/17
+
+
+@@|http://www.imagebam.com/JS/pupload.js
+@@|http://www.imagebam.com/gwt/gallerybrowser/gallerybrowser.nocache.js
+@@||ustream.tv^$document
+
+
+! 22/2/18
+
+
+http*://i68.tinypic.com/156xrtw.jpg
+start.mozilla.org/en-US/js/jquery-1.7.2.min.js
+
+
+! 13/4/18
+
+
+/*.com.gif
+
+
+! 17/5/18
+
+
+http*://i63.tinypic.com/9tg5kx.gif
+
+
+! 14/8/18
+
+
+http*://media.giphy.com/media/61SfK4BG0VLoCnCaYs/giphy.gif
+http*://i63.tinypic.com/8wl08k.gif
+@@|https://www.olx.com.ar/myolx/chat|$document
+@@||onleech.me^$document
+@@||taleo.net^$document
+@@||jobs.exxonmobil.com^$document
+@@||paysrv2.pagomiscuentas.com^$document
+@@||jobs.abb.com^$document
+@@||paste3.seireshd.com^$document
+@@||accenture.com^$document
+
+
+! 15/11/18
+
+
+/*.net.gif
+##.main-extras-col.col
+
+
+! 4/1/19
+
+
+/bodygear.to.jpg
+
+
+! 4/2/19
+
+
+/roids24.to.gif
+/arlrussia.jpg
+
+
+! 6/3/19
+
+
+/hghpharma.gif
+
+
+! 27/3/19
+
+
+/hghgear.jpg
+@@||cdn.jsdelivr.net^$script,domain=opensubtitles.org
+
+
+! 12/4/19
+
+
+/irondaddy.gif
+
+
+! 23/4/19
+
+
+/roidvisor.jpg
+/hghgear.webp
+
+
+! 13/6/19
+
+
+/roidbazaar.gif
+@@||lacuevadeguns.com^$document
+@@||creative.adobe.com^$document
+
+
+! 4/7/19
+
+
+/parapharma.png
+/ugfreak.gif
+
+
+! 12/7/19
+
+
+/steroidify.jpg
+
+
+! 23/9/19
+
+
+/blaster.gif
+
+
+! 21/11/19
+
+
+http*://i.ibb.co/ZYHQycM/2z5vvhu.gif
+
+
+! 27/11/19
+
+
+http*://descargaonline.xyz/ads0005.png
+
+
+! 27/4/20
+
+
+###maximizeChat
+###tawkchat-status-text-container
+https://www.google-analytics.com/*
+https://www.google-analytics.com/urchin.js
+
+
+! 21/5/20
+
+
+@@||onlinebanking.
+
+
+! 29/6/20
+
+
+subdivx.com##[id^="container"]
+
+
+! 20/7/20
+
+
+/steroidforce.gif
+
+
+! 12/10/20
+
+
+/anabolicmenu.gif
+
+
+! 29/10/20
+
+
+http*://cdn.shopify.com/s/files/1/0404/7601/files/kneel_468_x_60_480x480.gif
+
+
+! 16/11/20
+
+
+http*://i.ibb.co/FW6765b/Dutch-Pharma-Banner-728-x-90-v2.jpg
+
+
+! 22/12/20
+
+
+/kinglabs.online.gif
+/roidstore.gif
+/steroidify.gif
+
+
+! 18/7/21
+
+
+http*://blockchain.info/Resources/buttons/donate_64.png
