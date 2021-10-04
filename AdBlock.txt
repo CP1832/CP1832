@@ -1,4 +1,4 @@
-[Adblock Plus 3.0]
+[Adblock Plus 3.1]
 
 ! Version: 20160523
 ! Last modified: 27 Apr 2020
