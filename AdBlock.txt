@@ -428,3 +428,7 @@ http*://i.ibb.co/4ZzJZxF/gr-Anabolic.gif
 ! 21/7/22
 
 http*://promiedos.*.digitaloceanspaces.com
+
+! 2/9/22
+
+/donate-64.png
