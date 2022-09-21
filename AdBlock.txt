@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 ! Version: 20160523
-! Last modified: 20220909
+! Last modified: 20220921
 ! Title: http://soymilrayitas.googlepages.com
 ! Homepage: http://soymilrayitas.googlepages.com
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -436,3 +436,7 @@ http*://promiedos.*.digitaloceanspaces.com
 ! 9/9/22
 
 /auctusp.gif
+
+! 21/9/22
+
+/MEDPQR8_o.png
