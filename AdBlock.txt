@@ -440,3 +440,7 @@ http*://promiedos.*.digitaloceanspaces.com
 ! 21/9/22
 
 /MEDPQR8_o.png
+
+! 29/11/22
+
+/Cyber-Week-Hero.jpg
