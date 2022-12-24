@@ -444,3 +444,7 @@ http*://promiedos.*.digitaloceanspaces.com
 ! 29/11/22
 
 /Cyber-Week-Hero.jpg
+
+! 24/12/22
+
+/rsz-1rsz-2rsz-1002.jpg
