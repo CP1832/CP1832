@@ -448,3 +448,7 @@ http*://promiedos.*.digitaloceanspaces.com
 ! 24/12/22
 
 http*://i.ibb.co/K0g7P0q/rsz-1rsz-2rsz-1002.jpg
+
+! 9/8/23
+
+/Steroids-world.png
