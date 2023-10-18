@@ -13,6 +13,8 @@ http://www.fanboy.co.nz/fanboy-adblock.txt
 http://www.fanboy.co.nz/fanboy-espanol.txt
 http://www.fanboy.co.nz/fanboy-tracking.txt
 http://www.fanboy.co.nz/fanboy-cookiemonster.txt
+http://www.fanboy.co.nz/fanboy-annoyance.txt
+http://www.fanboy.co.nz/fanboy-social.txt
 http://abp.mozilla-hispano.org/nauscopio/filtros.txt
 http://easylist-downloads.adblockplus.org/easylist.txt
 http://easylist-downloads.adblockplus.org/easyprivacy.txt
@@ -20,8 +22,6 @@ http://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 http://easylist-downloads.adblockplus.org/adwarefilters.txt
 http://easylist-downloads.adblockplus.org/fanboy-social.txt
 http://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
-http://raw.github.com/liamja/Prebake/master/obtrusive.txt
-http://raw.github.com/Dawsey21/Lists/master/adblock-list.txt
 
 ! 28/10/07
 
