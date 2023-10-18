@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
 
 ! Version: 20160523
-! Last modified: 20230811
+! Last modified: 20231018
+! Expires: 1 days (update frequency)
 ! Title: http://soymilrayitas.googlepages.com
 ! Homepage: http://soymilrayitas.googlepages.com
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11,6 +12,7 @@
 http://www.fanboy.co.nz/fanboy-adblock.txt
 http://www.fanboy.co.nz/fanboy-espanol.txt
 http://www.fanboy.co.nz/fanboy-tracking.txt
+http://www.fanboy.co.nz/fanboy-cookiemonster.txt
 http://abp.mozilla-hispano.org/nauscopio/filtros.txt
 http://easylist-downloads.adblockplus.org/easylist.txt
 http://easylist-downloads.adblockplus.org/easyprivacy.txt
