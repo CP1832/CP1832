@@ -15,7 +15,6 @@ http://www.fanboy.co.nz/fanboy-tracking.txt
 http://www.fanboy.co.nz/fanboy-cookiemonster.txt
 http://www.fanboy.co.nz/fanboy-annoyance.txt
 http://www.fanboy.co.nz/fanboy-social.txt
-http://abp.mozilla-hispano.org/nauscopio/filtros.txt
 http://easylist-downloads.adblockplus.org/easylist.txt
 http://easylist-downloads.adblockplus.org/easyprivacy.txt
 http://easylist-downloads.adblockplus.org/antiadblockfilters.txt
@@ -475,11 +474,3 @@ http*://i.ibb.co/dg71vNV/ste02.gif
 www.youtube.com/*^$document
 www.youtube.com##ytd-popup-container.ytd-app.style-scope
 www.youtube.com##.opened
-
-
-
-
-
-
-
-
