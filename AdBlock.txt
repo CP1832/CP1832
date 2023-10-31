@@ -477,4 +477,4 @@ http*://i.ibb.co/dg71vNV/ste02.gif
 ! www.youtube.com##.opened
 www.youtube.com/*^$document
 www.youtube.com##[class=“style-scope ytd-popup-container”]
-www.youtube.com##TP-YT-IRON-OVERLAY-BACKDROP[class=“opened”]
+! www.youtube.com##TP-YT-IRON-OVERLAY-BACKDROP[class=“opened”]
