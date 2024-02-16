@@ -494,3 +494,4 @@ http*://i.ibb.co/FnF6YsD/2024.png
 ! 16/2/24
 
 youtube.com##.ytd-enforcement-message-view-model
+www.youtube.com##.ytd-popup-container
