@@ -471,9 +471,9 @@ http*://i.ibb.co/dg71vNV/ste02.gif
 
 ! 31/10/23
 
-www.youtube.com/*^$document
+! www.youtube.com/*^$document
 www.youtube.com##ytd-popup-container.ytd-app.style-scope
-! www.youtube.com##.opened
+www.youtube.com##.opened
 
 ! 4/11/23
 
