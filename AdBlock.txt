@@ -493,5 +493,6 @@ http*://i.ibb.co/FnF6YsD/2024.png
 
 ! 16/2/24
 
-youtube.com##.ytd-enforcement-message-view-model
-www.youtube.com##.ytd-popup-container
+www.youtube.com/*^$document
+www.youtube.com##[class=“style-scope ytd-popup-container”]
+www.youtube.com##TP-YT-IRON-OVERLAY-BACKDROP[class=“opened”]
