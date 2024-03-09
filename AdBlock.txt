@@ -269,7 +269,7 @@ ssl.google-analytics.com/*
 ! 21/6/17
 
 @@||club.personal.com.ar^$document
-http*://i63.tinypic.com/2ex6hqd.jpg
+i63.tinypic.com/2ex6hqd.jpg
 /pharmacomstore.jpg
 
 ! 7/9/17
@@ -280,7 +280,7 @@ http*://i63.tinypic.com/2ex6hqd.jpg
 
 ! 22/2/18
 
-http*://i68.tinypic.com/156xrtw.jpg
+i68.tinypic.com/156xrtw.jpg
 start.mozilla.org/en-US/js/jquery-1.7.2.min.js
 
 ! 13/4/18
@@ -289,12 +289,12 @@ start.mozilla.org/en-US/js/jquery-1.7.2.min.js
 
 ! 17/5/18
 
-http*://i63.tinypic.com/9tg5kx.gif
+i63.tinypic.com/9tg5kx.gif
 
 ! 14/8/18
 
-http*://media.giphy.com/media/61SfK4BG0VLoCnCaYs/giphy.gif
-http*://i63.tinypic.com/8wl08k.gif
+media.giphy.com/media/61SfK4BG0VLoCnCaYs/giphy.gif
+i63.tinypic.com/8wl08k.gif
 @@|https://www.olx.com.ar/myolx/chat|$document
 @@||onleech.me^$document
 @@||taleo.net^$document
@@ -357,11 +357,11 @@ http*://i63.tinypic.com/8wl08k.gif
 
 ! 21/11/19
 
-http*://i.ibb.co/ZYHQycM/2z5vvhu.gif
+i.ibb.co/ZYHQycM/2z5vvhu.gif
 
 ! 27/11/19
 
-http*://descargaonline.xyz/ads0005.png
+descargaonline.xyz/ads0005.png
 
 ! 27/4/20
 
@@ -388,11 +388,11 @@ subdivx.com##[id^="container"]
 
 ! 29/10/20
 
-http*://cdn.shopify.com/s/files/1/0404/7601/files/kneel_468_x_60_480x480.gif
+cdn.shopify.com/s/files/1/0404/7601/files/kneel_468_x_60_480x480.gif
 
 ! 16/11/20
 
-http*://i.ibb.co/FW6765b/Dutch-Pharma-Banner-728-x-90-v2.jpg
+i.ibb.co/FW6765b/Dutch-Pharma-Banner-728-x-90-v2.jpg
 
 ! 22/12/20
 
@@ -402,15 +402,15 @@ http*://i.ibb.co/FW6765b/Dutch-Pharma-Banner-728-x-90-v2.jpg
 
 ! 18/7/21
 
-http*://blockchain.info/Resources/buttons/donate_64.png
+blockchain.info/Resources/buttons/donate_64.png
 
 ! 26/8/21
 
-http*://images4.imagebam.com/1d/5d/8e/ME33YRY_o.gif
+images4.imagebam.com/1d/5d/8e/ME33YRY_o.gif
  
 ! 14/9/21
 
-http*://i.ibb.co/4ZzJZxF/gr-Anabolic.gif
+i.ibb.co/4ZzJZxF/gr-Anabolic.gif
 
 ! 20/9/21
 
@@ -428,7 +428,7 @@ http*://i.ibb.co/4ZzJZxF/gr-Anabolic.gif
 
 ! 21/7/22
 
-http*://promiedos.*.digitaloceanspaces.com
+promiedos.*.digitaloceanspaces.com
 
 ! 2/9/22
 
@@ -448,7 +448,7 @@ http*://promiedos.*.digitaloceanspaces.com
 
 ! 24/12/22
 
-http*://i.ibb.co/K0g7P0q/rsz-1rsz-2rsz-1002.jpg
+i.ibb.co/K0g7P0q/rsz-1rsz-2rsz-1002.jpg
 
 ! 9/8/23
 
@@ -456,18 +456,18 @@ http*://i.ibb.co/K0g7P0q/rsz-1rsz-2rsz-1002.jpg
 
 ! 11/8/23
 
-http*://images*.imagebam.com/54/08/97/MENFER2_o.jpg
+images*.imagebam.com/54/08/97/MENFER2_o.jpg
 
 ! 8/9/23
 
-http*://images*.imagebam.com/1b/d6/d2/MENG62O_o.gif
-http*://i.ibb.co/d4C3GnY/herbiceps-banner.gif
+images*.imagebam.com/1b/d6/d2/MENG62O_o.gif
+i.ibb.co/d4C3GnY/herbiceps-banner.gif
 
 ! 27/10/23
 
-http*://s6.gifyu.com/images/S8xQs.gif
-http*://i.ibb.co/mc44JvX/PP.jpg
-http*://i.ibb.co/dg71vNV/ste02.gif
+s6.gifyu.com/images/S8xQs.gif
+i.ibb.co/mc44JvX/PP.jpg
+i.ibb.co/dg71vNV/ste02.gif
 
 ! 31/10/23
 
@@ -477,11 +477,11 @@ www.youtube.com##.opened
 
 ! 4/11/23
 
-http*://i.ibb.co/QJ5zHrs/ste01.gif
+i.ibb.co/QJ5zHrs/ste01.gif
 
 ! 5/11/23
 
-http*://i.ibb.co/j3Jy900/image-1698330958-kjkxxrwzmd-300-300-0.jpg
+i.ibb.co/j3Jy900/image-1698330958-kjkxxrwzmd-300-300-0.jpg
 
 ! 13/11/23
 
@@ -489,7 +489,7 @@ steroidify.com/*
 
 ! 2/1/24
 
-
+i.ibb.co/FnF6YsD/2024.png
 
 ! 9/3/24
 
