@@ -487,6 +487,11 @@ www.youtube.com##.opened
 
 steroidify.com/*
 
+! 2/1/24
+
+
+
 ! 9/3/24
+
 youtube.com##.style-scope.ytd-action-companion-ad-renderer
 youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
