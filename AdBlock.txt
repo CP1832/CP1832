@@ -477,7 +477,7 @@ www.youtube.com##.opened
 
 ! 4/11/23
 
-i.ibb.co/QJ5zHrs/ste01.gif
+
 
 ! 5/11/23
 
@@ -497,3 +497,5 @@ youtube.com##.style-scope.ytd-action-companion-ad-renderer
 youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
 youtube.com###companion
 youtube.com##.style-scope.ytd-companion-slot-renderer
+youtube.com##.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
+youtube.com###block
