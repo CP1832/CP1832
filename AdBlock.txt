@@ -42,7 +42,7 @@ google.com.ar,google.es,google.com.es#table(id=mbEnd)(width=30%)
 
 ! 27/6/08
 
-sonidoo.com/sonidoo.gif
+
 
 ! 10/8/08
 
@@ -477,16 +477,16 @@ www.youtube.com##.opened
 
 ! 4/11/23
 
-http*://i.ibb.co/QJ5zHrs/ste01.gif
+
 
 ! 5/11/23
 
-http*://i.ibb.co/j3Jy900/image-1698330958-kjkxxrwzmd-300-300-0.jpg
+
 
 ! 13/11/23
 
 steroidify.com/*
 
-! 2/1/24
-
-http*://i.ibb.co/FnF6YsD/2024.png
+! 9/3/24
+youtube.com##.style-scope.ytd-action-companion-ad-renderer
+youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
