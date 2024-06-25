@@ -1,0 +1,10 @@
+! Commented lines
+
+! 9/3/24
+
+! Comment: youtube.com##.style-scope.ytd-action-companion-ad-renderer
+! Comment: youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
+! Comment: youtube.com###companion
+! Comment: youtube.com##.style-scope.ytd-companion-slot-renderer
+! Comment: youtube.com##.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
+! Comment: youtube.com###block
