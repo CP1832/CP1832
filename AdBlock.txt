@@ -491,15 +491,6 @@ steroidify.com/*
 
 i.ibb.co/FnF6YsD/2024.png
 
-! 9/3/24
-
-! Comment: youtube.com##.style-scope.ytd-action-companion-ad-renderer
-! Comment: youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
-! Comment: youtube.com###companion
-! Comment: youtube.com##.style-scope.ytd-companion-slot-renderer
-! Comment: youtube.com##.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
-! Comment: youtube.com###block
-
 ! 14/4/24
 
 i.ibb.co/CmZVSzt/rsz-image-1711813572-5pav9wdqdv-300-300-0.jpg
