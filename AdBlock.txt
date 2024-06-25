@@ -493,12 +493,12 @@ i.ibb.co/FnF6YsD/2024.png
 
 ! 9/3/24
 
-youtube.com##.style-scope.ytd-action-companion-ad-renderer
-youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
-youtube.com###companion
-youtube.com##.style-scope.ytd-companion-slot-renderer
-youtube.com##.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
-youtube.com###block
+! youtube.com##.style-scope.ytd-action-companion-ad-renderer
+! youtube.com##.style-scope.ytd-in-feed-ad-layout-renderer.sparkles-light-cta
+! youtube.com###companion
+! youtube.com##.style-scope.ytd-companion-slot-renderer
+! youtube.com##.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
+! youtube.com###block
 
 ! 14/4/24
 
