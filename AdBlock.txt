@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 ! Version: 20160523
-! Last modified: 20241129
+! Last modified: 20241203
 ! Expires: 1 days (update frequency)
 ! Title: http://soymilrayitas.googlepages.com
 ! Homepage: http://soymilrayitas.googlepages.com
@@ -543,3 +543,9 @@ i.ibb.co/TcH9LgX/dragon-pharma.gif
 
 i.ibb.co/vX3TPDP/93ce001fb8.jpg
 i.ibb.co/tL4vqd1/44dbdc6533.jpg
+
+! 3/12/24
+
+||report.error-report.com^$domain=sourceforge.net
+sourceforge.net#$#abort-on-property-read document.currentScript
+sourceforge.net#$#prevent-listener adb
