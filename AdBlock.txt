@@ -547,5 +547,5 @@ i.ibb.co/tL4vqd1/44dbdc6533.jpg
 ! 3/12/24
 
 ||report.error-report.com^$domain=sourceforge.net
-sourceforge.net#$#abort-on-property-read
-sourceforge.net#$#prevent-listener
+sourceforge.net#$#abort-on-property-read document.currentScript
+sourceforge.net#$#prevent-listener adb
