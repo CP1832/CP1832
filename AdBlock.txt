@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 ! Version: 20160523
-! Last modified: 20250303
+! Last modified: 20250409
 ! Expires: 1 days (update frequency)
 ! Title: http://soymilrayitas.googlepages.com
 ! Homepage: http://soymilrayitas.googlepages.com
@@ -579,3 +579,6 @@ i.ibb.co/k299GRx0/4c4db49b5acb3d.jpg
 i.ibb.co/xq4HLYkn/649380675b922f.jpg
 i.ibb.co/zVpWbBPG/3d69ae6ccb3058.jpg
 
+! 9/4/25
+
+||service.adsage.io/ads/*
