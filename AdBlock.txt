@@ -600,3 +600,14 @@ sourceforge.net###mon-sticky-obj
 sourceforge.net###mon-sticky-ban
 sourceforge.net##.nel.standard.can-trunc
 sourceforge.net###bolt-coding-bar
+
+! 24/4/26
+
+saradas.org###btc-bar
+saradas.org##div[style="flex:1; padding:10px 15px;"]
+saradas.org##div[style="width:100%; background:#111; color:#fff; display:flex; align-items:center; font-family:Arial; border-bottom:2px solid #f7931a; overflow:hidden;"]
+saradas.org##div[style="width:100%; text-align:center; margin:20px 0;"]
+saradas.org##.ticker-box
+saradas.org##.saradas-ticker
+saradas.org##div[style="display: inline-block; max-width: 728px; width: 100%; background: linear-gradient(135deg, rgb(13, 13, 13), rgb(26, 26, 26)); border: 1px solid rgb(0, 255, 204); border-radius: 12px; padding: 14px; position: relative; box-shadow: rgba(0, 255, 204, 0.35) 0px 0px 20px, rgba(0, 0, 0, 0.6) 0px 8px 20px; transition: 0.3s; transform: translateY(-4px) scale(1.01);"]
+
