@@ -42,7 +42,7 @@ google.com.ar,google.es,google.com.es#table(id=mbEnd)(width=30%)
 
 ! 27/6/08
 
-sonidoo.com/sonidoo.gif
+
 
 ! 10/8/08
 
@@ -55,7 +55,7 @@ sonidoo.com/sonidoo.gif
 ! 18/9/08
 
 mp3tube.net/jogando-banner.jpg
-mp3tube.net/muonline.jpg
+
 
 ! 20/9/08
 
@@ -514,7 +514,7 @@ i.ibb.co/DQNNrX3/Aug.png
 
 ! 3/9/24
 
-i.ibb.co/Hr2ywb6/labor.jpg
+
 
 ! 11/10/24
 
@@ -533,7 +533,7 @@ i.ibb.co/2Fkd8Lv/1729762451.jpg
 
 ! 19/11/24
 
-i.ibb.co/RbhW2qq/7816-banner.png
+
 
 ! 25/11/24
 
@@ -589,8 +589,8 @@ picstate.com/thumbs/small/22938188_dl3oa/23f9aeb43e79d6.jpg
 
 ! 22/12/25
 
-i.ibb.co/ns8rgwYc/4b941c505044d75e.jpg
-i.ibb.co/JR1tvWf6/44ed8256c92aa4dc02f7dd8c5a5023fa.jpg
+
+
 i.ibb.co/WNWG4629/67cc2b128e2cf416.jpg
 
 ! 12/4/26
@@ -611,3 +611,9 @@ sourceforge.net###bolt-coding-bar
 ##.saradas-ticker
 ##div[style="display: inline-block; max-width: 728px; width: 100%; background: linear-gradient(135deg, rgb(13, 13, 13), rgb(26, 26, 26)); border: 1px solid rgb(0, 255, 204); border-radius: 12px; padding: 14px; position: relative; box-shadow: rgba(0, 255, 204, 0.35) 0px 0px 20px, rgba(0, 0, 0, 0.6) 0px 8px 20px; transition: 0.3s; transform: translateY(-4px) scale(1.01);"]
 
+! 9/8/26
+
+##.saradas_support
+sourceforge.net###auth0-obj
+sourceforge.net###auth0-bnnr
+sourceforge.net###retool-on-top
