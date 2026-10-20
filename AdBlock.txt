@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 ! Version: 20160523
-! Last modified: 20260424
+! Last modified: 20261020
 ! Expires: 1 days (update frequency)
 ! Title: http://soymilrayitas.googlepages.com
 ! Homepage: http://soymilrayitas.googlepages.com
@@ -54,7 +54,7 @@ google.com.ar,google.es,google.com.es#table(id=mbEnd)(width=30%)
 
 ! 18/9/08
 
-mp3tube.net/jogando-banner.jpg
+
 
 
 ! 20/9/08
@@ -520,7 +520,7 @@ i.ibb.co/DQNNrX3/Aug.png
 
 i.ibb.co/k02hDRy/72fc5f751e.jpg
 i.ibb.co/WVbzpZc/ab9ffffa55.jpg
-i.ibb.co/gm3crbn/4d8d816558.jpg
+
 
 ! 25/10/24
 
@@ -622,3 +622,8 @@ sourceforge.net###retool-on-top
 
 sourceforge.net###auth0-ban
 sourceforge.net##.pbar-row
+
+! 20/10/26
+
+sourceforge.net##.akb-row
+sourceforge.net##.akb-inner
