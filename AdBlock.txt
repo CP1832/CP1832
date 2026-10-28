@@ -269,7 +269,7 @@ ssl.google-analytics.com/*
 ! 21/6/17
 
 @@||club.personal.com.ar^$document
-i63.tinypic.com/2ex6hqd.jpg
+
 /pharmacomstore.jpg
 
 ! 7/9/17
@@ -280,7 +280,7 @@ i63.tinypic.com/2ex6hqd.jpg
 
 ! 22/2/18
 
-i68.tinypic.com/156xrtw.jpg
+
 start.mozilla.org/en-US/js/jquery-1.7.2.min.js
 
 ! 13/4/18
@@ -289,11 +289,11 @@ start.mozilla.org/en-US/js/jquery-1.7.2.min.js
 
 ! 17/5/18
 
-i63.tinypic.com/9tg5kx.gif
+
 
 ! 14/8/18
 
-media.giphy.com/media/61SfK4BG0VLoCnCaYs/giphy.gif
+
 i63.tinypic.com/8wl08k.gif
 @@|https://www.olx.com.ar/myolx/chat|$document
 @@||onleech.me^$document
@@ -388,7 +388,7 @@ subdivx.com##[id^="container"]
 
 ! 29/10/20
 
-cdn.shopify.com/s/files/1/0404/7601/files/kneel_468_x_60_480x480.gif
+
 
 ! 16/11/20
 
@@ -402,7 +402,7 @@ i.ibb.co/FW6765b/Dutch-Pharma-Banner-728-x-90-v2.jpg
 
 ! 18/7/21
 
-blockchain.info/Resources/buttons/donate_64.png
+
 
 ! 26/8/21
 
@@ -444,7 +444,7 @@ images4.imagebam.com/1d/5d/8e/ME33YRY_o.gif
 
 ! 24/12/22
 
-i.ibb.co/K0g7P0q/rsz-1rsz-2rsz-1002.jpg
+
 
 ! 9/8/23
 
@@ -452,7 +452,7 @@ i.ibb.co/K0g7P0q/rsz-1rsz-2rsz-1002.jpg
 
 ! 11/8/23
 
-images*.imagebam.com/54/08/97/MENFER2_o.jpg
+images*.
 
 ! 8/9/23
 
@@ -461,7 +461,7 @@ images*.imagebam.com/1b/d6/d2/MENG62O_o.gif
 
 ! 27/10/23
 
-s6.gifyu.com/images/S8xQs.gif
+
 i.ibb.co/mc44JvX/PP.jpg
 i.ibb.co/dg71vNV/ste02.gif
 
@@ -505,7 +505,7 @@ i.ibb.co/5jkpLXt/HBC0702.png
 
 ! 9/7/24
 
-i.ibb.co/6XgRsjL/image-1719503893-1njopq7d25-300-300-0-ezgif-com-resize.jpg
+
 
 ! 12/8/24
 
@@ -541,7 +541,7 @@ i.ibb.co/2Fkd8Lv/1729762451.jpg
 
 ! 28/11/24
 
-i.ibb.co/vX3TPDP/93ce001fb8.jpg
+
 i.ibb.co/tL4vqd1/44dbdc6533.jpg
 
 ! 3/12/24
@@ -560,14 +560,14 @@ i.ibb.co/HnnCT6F/image-1734905149-fc63azzren-300-300-0.jpg
 
 ! 27/1/25
 
-i.ibb.co/bR2Mqxh/image-1736500172-jg0jfthaan-300-300-0.jpg
+
 
 ! 14/2/25
 
 i.ibb.co/dsdVr89Y/444502d5c291c0.jpg
 i.ibb.co/2wqcfqr/41ca70af2dd223.jpg
 i.ibb.co/wFMfGkMB/4a126fa7dfa155.jpg
-i.ibb.co/1GGD9gYB/asshop.jpg
+
 i.ibb.co/HTWfXhfj/ahbc.png
 
 ! 24/2/25
@@ -577,7 +577,7 @@ i.ibb.co/k299GRx0/4c4db49b5acb3d.jpg
 ! 3/3/25
 
 i.ibb.co/xq4HLYkn/649380675b922f.jpg
-i.ibb.co/zVpWbBPG/3d69ae6ccb3058.jpg
+
 
 ! 9/4/25
 
@@ -627,3 +627,8 @@ sourceforge.net##.pbar-row
 
 sourceforge.net##.akb-row
 sourceforge.net##.akb-inner
+
+! 27/10/26
+
+sourceforge.net##.sl-inner
+sourceforge.net###security-live-sticky
